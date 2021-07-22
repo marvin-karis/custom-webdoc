@@ -1,0 +1,110 @@
+.Navigation_bar{
+  font-size: 18px;
+  word-spacing:12em;
+  opacity: 1;
+  box-sizing: border-box;
+  padding:inherit;
+  border: 2PX;
+  color: coral;
+
+}
+h1{
+  font-family:sans-serif;
+  font-weight: bolder;
+  font-style: oblique;
+  text-align:justify;
+  text-decoration: underline;
+  color: blue;
+}
+body{
+  background-image: url('C:/Users/user/Documents/WebsiteProject/images/Tech.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+  margin: 0;
+}
+.Header_bar {
+ float: left;
+ padding: inherit;
+ width: 100%;
+}
+.Top_details{
+  color: #333;
+  font-weight:bold;
+  margin:auto;
+  width: 100%;
+}
+a{
+  color: coral;
+}
+a:hover{
+  color:blue;
+}
+a:visited{
+  color:green;
+}
+.block1{
+  color:white;
+  font-family: fantasy;
+  font-weight:600;
+  font-style: italic;
+  letter-spacing: 2PX;
+  word-spacing: normal;
+  text-align: left;
+  word-wrap: normal;
+  word-break: normal;
+  float: left;
+  width: 50%;
+
+}
+.block2 {
+  color:white;
+  font-family: fantasy;
+  font-weight:600;
+  font-style: italic;
+  letter-spacing:2px;
+  word-spacing: normal;
+  text-align: justify;
+  word-break: normal;
+  float: right;
+  width: 50%;
+
+}
+.block1 h2{
+  color: red;
+  font-family: Tahoma;
+  font-style: bold;
+  word-spacing: 2px;
+  text-align: justify;
+
+}
+.get-Started{
+  position:fixed;
+  top:inherit;
+  left: auto;
+  border-width: medium;
+  border-color: yellow;
+  border-style: dotted;
+  border-radius: 15px;
+}
+b:hover{
+  color: yellow;
+}
+.rightbar{
+  float:right;
+  width:inherit;
+  margin:auto;
+}
+.block2 {
+  color:white;
+  font-family:family;
+  font-weight:900;
+  font-style: italic;
+  letter-spacing:3px;
+  word-spacing: normal;
+  text-align: justify;
+  word-break: normal;
+  float: center;
+}
+
+https://media.istockphoto.com/vectors/initial-m-letter-logo-design-vector-template-vector-id1211248149?k=6&m=1211248149&s=612x612&w=0&h=LztRWjsP4ykg9Fcqd52mMfIURufcI7hTQF4vJAiLe-g=
