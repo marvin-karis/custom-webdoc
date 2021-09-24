@@ -1,8 +1,6 @@
 /**
-* Template Name: Arsha - v4.5.0
-* Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template Name: MARCH TECH - v4.5.0
+* Author: Marvin
 */
 
 /*--------------------------------------------------------------
@@ -10,7 +8,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #00FF00;
 }
 
 a {
@@ -772,7 +770,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .cta {
-  background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("C:/Users/user/Documents/Arsha/Arsha/assets/img/Nairobi-night.jpg") fixed center center;
+  background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url("C:/Users/user/Documents/github_repository/marvins-project/WebsiteProject/img/Nairobi-night.jpg") fixed center center;
   background-size: cover;
   padding: 120px 0;
 }
