@@ -4,6 +4,10 @@ import random
 from random import randrange
 import freegames
 from freegames import square,vector
+import tkinter
+
+window = tkinter.Tk()
+window.title("Snakez")
 
 food = vector(0,0)
 snake = [vector(10,0)]
