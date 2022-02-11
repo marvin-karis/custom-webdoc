@@ -2,7 +2,7 @@ import requests
 
 url = "https://alpha-vantage.p.rapidapi.com/query"
 
-querystring = {"function":"TIME_SERIES_DAILY_ADJUSTED","symbol":"KEN","outputsize":"compact","datatype":"json"}
+querystring = {"to_currency":"KEN","function":"CURRENCY_EXCHANGE_RATE","from_currency":"JMD"}
 
 headers = {
     'x-rapidapi-host': "alpha-vantage.p.rapidapi.com",

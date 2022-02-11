@@ -2,7 +2,7 @@ import requests
 
 url = "https://alpha-vantage.p.rapidapi.com/query"
 
-querystring = {"function":"TIME_SERIES_DAILY_ADJUSTED","symbol":"KEN","outputsize":"compact","datatype":"json"}
+querystring = {"time_period":"21","interval":"5min","series_type":"close","function":"SMA","symbol":"GBPUSD","datatype":"json"}
 
 headers = {
     'x-rapidapi-host': "alpha-vantage.p.rapidapi.com",
